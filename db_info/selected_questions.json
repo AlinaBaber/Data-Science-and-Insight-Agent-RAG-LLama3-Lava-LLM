@@ -1,0 +1,9 @@
+[
+    {
+        "question_description": "Which businesses have submitted the highest number of invoices in the last quarter?",
+        "relevant_tables": [
+            "BUSINESSINFO",
+            "INVOICE"
+        ]
+    }
+]

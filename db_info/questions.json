@@ -1,0 +1,42 @@
+[
+    {
+        "question_description": "Which cities have the highest concentration of medical facilities with valid business registrations?",
+        "relevant_tables": [
+            "BUSINESSFACILITY",
+            "BUSINESSINFO"
+        ]
+    },
+    {
+        "question_description": "What is the most common diagnosis code category and its corresponding description among all the bills?",
+        "relevant_tables": [
+            "BUSINESSICDCODE",
+            "BILLICDCODES"
+        ]
+    },
+    {
+        "question_description": "Which business roles have been created or updated the most frequently in the last quarter?",
+        "relevant_tables": [
+            "BUSINESSROLES"
+        ]
+    },
+    {
+        "question_description": "Which businesses have submitted the highest number of invoices in the last quarter?",
+        "relevant_tables": [
+            "BUSINESSINFO",
+            "INVOICE"
+        ]
+    },
+    {
+        "question_description": "What is the average zip code length for businesses located in a specific state and how does it vary from the overall average?",
+        "relevant_tables": [
+            "Start Table's Name",
+            "End Table's Name"
+        ]
+    },
+    {
+        "question_description": "Which business registrations had their NSP dashboard status changed to 'offline' between specific dates and who took the action?",
+        "relevant_tables": [
+            "NSPDashboadFileStatusOfflineData"
+        ]
+    }
+]
