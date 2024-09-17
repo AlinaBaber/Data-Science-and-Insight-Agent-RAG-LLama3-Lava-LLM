@@ -64,4 +64,5 @@ Insight Agent offers a comprehensive solution for data analysis, document proces
 - **Alina Baber**
 - **Nimarta Devi**
 - **Hamza Abbas**
+- **Partab Rai**
 
